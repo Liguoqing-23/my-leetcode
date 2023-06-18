@@ -6,7 +6,7 @@
 
 ```typescript
 /**
- * @Desc [id]. [title]
+ * @Desc [编号]. [方法]
  * @TC O(m)
  * @SC O(n)
  * @Sub YYYY/MM/DD
